@@ -1,0 +1,16 @@
+.buttonsContainer{
+
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: rgb(2, 4, 4);
+   
+ 
+ }
+ .button{
+  width:45px;
+  height: 45px;
+  margin: 7px;
+
+ 
+}
